@@ -137,3 +137,7 @@ iframe.contact-map{
      -moz-box-shadow: 6px 6px 0px #c85c0e;
           box-shadow: 6px 6px 0px #c85c0e;
 }
+
+.navbar-inner {
+  background:#da70d6;
+}
