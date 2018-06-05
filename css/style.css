@@ -557,7 +557,7 @@ ul.the-icons {
 /* ================= featured ========================== */
 
 section#featured {
-	background: #000 url(../img/bg/bg-1.jpg) 50% 0 no-repeat;
+	background: grey;
 	position:relative;
 	width:100%;
 	height:auto;
