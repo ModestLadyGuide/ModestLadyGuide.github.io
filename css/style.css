@@ -800,7 +800,7 @@ section#featured p  {
 
 /* ================= services ============================ */
 section#services {
-	background: #000 url(../img/bg/bg-1.jpg) 50% 0 no-repeat;
+	background: #666;
 	width:100%;
 	height:auto;
 	margin:0;
